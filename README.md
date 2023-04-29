@@ -21,4 +21,6 @@ Create a script that loops through all the stocks for one year and outputs the f
 ![image](https://user-images.githubusercontent.com/129799669/234986430-31ba5e23-3e6e-43fb-99c3-840ed17773b8.png)
 ![image](https://user-images.githubusercontent.com/129799669/234986537-62ac02cb-babd-4749-b624-914708aedc39.png)
 
+Citation: Worked with multiple peers
+
 Created by: Dustin Shaddix
